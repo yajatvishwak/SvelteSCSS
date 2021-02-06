@@ -5,4 +5,8 @@ To run,
  ` npm i degit -g `
  
 Then run,
-  ` npx degit  `
+` npx degit yajatvishwak/SvelteSCSS my-svelte-project `
+
+Finally,
+  ` cd my-svelte-project `
+  ` npm install `
