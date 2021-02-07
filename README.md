@@ -1,13 +1,12 @@
 # SvelteSCSS
 Starter template for setting up Svelte with SCSS 🚀
 
-To run,
+- To run,
  ` npm i degit -g `
  
-Then run,
+- Then run,
 ` npx degit yajatvishwak/SvelteSCSS my-svelte-project `
 
-Finally,
+- Finally,
   ` cd my-svelte-project `
-  
   ` npm install `
